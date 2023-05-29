@@ -1,0 +1,1 @@
+{"version":1,"defects":{"MankindTest::testLoadPeopleFromFile":5,"MankindTest::testGetPercentageOfMen":7,"PersonTest::testGetAgeInDays":5},"times":{"MankindTest::testLoadPeopleFromFile":0.005,"MankindTest::testGetPercentageOfMen":0.001,"PersonTest::testGetAgeInDays":0.001}}
